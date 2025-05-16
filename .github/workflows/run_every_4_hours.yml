@@ -24,7 +24,8 @@ jobs:
           pip install requests matplotlib colorama
 
       - name: Run trending_crypto.py
-        run: python trending_crypto_tracker/trending_crypto.py
+        run: python trending_crypto.py
 
-        
+ 
+
   

@@ -1,0 +1,212 @@
+[
+    {
+        "name": "Maple Finance",
+        "symbol": "syrup",
+        "current_price": 0.346574,
+        "price_change_percentage_24h": 28.6469,
+        "market_cap": 372196379
+    },
+    {
+        "name": "Ket",
+        "symbol": "ket",
+        "current_price": 0.49356,
+        "price_change_percentage_24h": 23.27104,
+        "market_cap": 485368917
+    },
+    {
+        "name": "Onyxcoin",
+        "symbol": "xcn",
+        "current_price": 0.01924805,
+        "price_change_percentage_24h": 16.64243,
+        "market_cap": 644486038
+    },
+    {
+        "name": "dogwifhat",
+        "symbol": "wif",
+        "current_price": 1.12,
+        "price_change_percentage_24h": 10.89206,
+        "market_cap": 1113317969
+    },
+    {
+        "name": "Story",
+        "symbol": "ip",
+        "current_price": 5.05,
+        "price_change_percentage_24h": 10.7511,
+        "market_cap": 1411367638
+    },
+    {
+        "name": "Hyperliquid",
+        "symbol": "hype",
+        "current_price": 27.06,
+        "price_change_percentage_24h": 9.71364,
+        "market_cap": 9033806300
+    },
+    {
+        "name": "EOS",
+        "symbol": "eos",
+        "current_price": 0.84752,
+        "price_change_percentage_24h": 9.65315,
+        "market_cap": 1284670591
+    },
+    {
+        "name": "Wrapped HYPE",
+        "symbol": "whype",
+        "current_price": 27.04,
+        "price_change_percentage_24h": 8.96408,
+        "market_cap": 359179756
+    },
+    {
+        "name": "Staked HYPE",
+        "symbol": "sthype",
+        "current_price": 27.01,
+        "price_change_percentage_24h": 8.94192,
+        "market_cap": 298031754
+    },
+    {
+        "name": "Turbo",
+        "symbol": "turbo",
+        "current_price": 0.00551294,
+        "price_change_percentage_24h": 7.82237,
+        "market_cap": 380306527
+    },
+    {
+        "name": "Helium",
+        "symbol": "hnt",
+        "current_price": 4.12,
+        "price_change_percentage_24h": 7.6274,
+        "market_cap": 751723338
+    },
+    {
+        "name": "Aave",
+        "symbol": "aave",
+        "current_price": 238.34,
+        "price_change_percentage_24h": 7.08493,
+        "market_cap": 3603195820
+    },
+    {
+        "name": "Brett",
+        "symbol": "brett",
+        "current_price": 0.07296,
+        "price_change_percentage_24h": 6.86251,
+        "market_cap": 722544212
+    },
+    {
+        "name": "Mog Coin",
+        "symbol": "mog",
+        "current_price": 1.11e-06,
+        "price_change_percentage_24h": 6.77432,
+        "market_cap": 432709701
+    },
+    {
+        "name": "Pendle",
+        "symbol": "pendle",
+        "current_price": 4.11,
+        "price_change_percentage_24h": 6.00096,
+        "market_cap": 667480665
+    },
+    {
+        "name": "KAITO",
+        "symbol": "kaito",
+        "current_price": 2.03,
+        "price_change_percentage_24h": 5.91158,
+        "market_cap": 488780367
+    },
+    {
+        "name": "Compound",
+        "symbol": "comp",
+        "current_price": 46.64,
+        "price_change_percentage_24h": 5.84228,
+        "market_cap": 421046433
+    },
+    {
+        "name": "Walrus",
+        "symbol": "wal",
+        "current_price": 0.695527,
+        "price_change_percentage_24h": 5.27861,
+        "market_cap": 868786530
+    },
+    {
+        "name": "Sui",
+        "symbol": "sui",
+        "current_price": 3.91,
+        "price_change_percentage_24h": 5.25935,
+        "market_cap": 13070728835
+    },
+    {
+        "name": "Maker",
+        "symbol": "mkr",
+        "current_price": 1869.85,
+        "price_change_percentage_24h": 4.9418,
+        "market_cap": 1554530233
+    },
+    {
+        "name": "Tokenize Xchange",
+        "symbol": "tkx",
+        "current_price": 36.85,
+        "price_change_percentage_24h": 4.91389,
+        "market_cap": 2947635847
+    },
+    {
+        "name": "Kaspa",
+        "symbol": "kas",
+        "current_price": 0.121496,
+        "price_change_percentage_24h": 4.83636,
+        "market_cap": 3180167358
+    },
+    {
+        "name": "Raydium",
+        "symbol": "ray",
+        "current_price": 3.46,
+        "price_change_percentage_24h": 4.67745,
+        "market_cap": 1001580181
+    },
+    {
+        "name": "Tezos",
+        "symbol": "xtz",
+        "current_price": 0.661529,
+        "price_change_percentage_24h": 4.43862,
+        "market_cap": 690381980
+    },
+    {
+        "name": "DeepBook",
+        "symbol": "deep",
+        "current_price": 0.189724,
+        "price_change_percentage_24h": 4.42945,
+        "market_cap": 474145830
+    },
+    {
+        "name": "Litecoin",
+        "symbol": "ltc",
+        "current_price": 101.45,
+        "price_change_percentage_24h": 4.33464,
+        "market_cap": 7693996092
+    },
+    {
+        "name": "Ethena",
+        "symbol": "ena",
+        "current_price": 0.388023,
+        "price_change_percentage_24h": 4.31697,
+        "market_cap": 2255405106
+    },
+    {
+        "name": "Popcat",
+        "symbol": "popcat",
+        "current_price": 0.494959,
+        "price_change_percentage_24h": 4.28412,
+        "market_cap": 484353196
+    },
+    {
+        "name": "SPX6900",
+        "symbol": "spx",
+        "current_price": 0.741735,
+        "price_change_percentage_24h": 4.25274,
+        "market_cap": 690085872
+    },
+    {
+        "name": "Morpho",
+        "symbol": "morpho",
+        "current_price": 1.7,
+        "price_change_percentage_24h": 4.20884,
+        "market_cap": 450380133
+    }
+]
